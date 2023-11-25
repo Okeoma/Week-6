@@ -1,8 +1,5 @@
 # Week-6
 File ingestion and schema validation
-![image.png](attachment:image.png)
-
-
 ## Task:
 
 * Take any csv/text file of 2+ GB of your choice. --- (You can do this assignment on Google colab)
